@@ -1,0 +1,11 @@
+E:\Temp\Seba_NO_BORRAR\IngematicaAppTest\IngematicaAppTest.Model\bin\Debug\IngematicaAppTest.Model.dll
+E:\Temp\Seba_NO_BORRAR\IngematicaAppTest\IngematicaAppTest.Model\bin\Debug\IngematicaAppTest.Model.pdb
+E:\Temp\Seba_NO_BORRAR\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.csproj.CoreCompileInputs.cache
+E:\Temp\Seba_NO_BORRAR\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.dll
+E:\Temp\Seba_NO_BORRAR\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.pdb
+C:\Users\USUARIO\Desktop\IngematicaAppTest\IngematicaAppTest.Model\bin\Debug\IngematicaAppTest.Model.dll
+C:\Users\USUARIO\Desktop\IngematicaAppTest\IngematicaAppTest.Model\bin\Debug\IngematicaAppTest.Model.pdb
+C:\Users\USUARIO\Desktop\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.dll
+C:\Users\USUARIO\Desktop\IngematicaAppTest\IngematicaAppTest.Model\obj\Debug\IngematicaAppTest.Model.pdb
